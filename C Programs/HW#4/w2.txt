@@ -1,0 +1,20 @@
+Number of employees: 3
+
+W2 Form
+-------
+Name: John Slacker
+Gross Pay: $279.82
+Taxes Withheld: $27.98
+Net Pay: $251.84
+W2 Form
+-------
+Name: Jane Worker
+Gross Pay: $1570.83
+Taxes Withheld: $167.08
+Net Pay: $1403.75
+W2 Form
+-------
+Name: Jack Bob
+Gross Pay: $0.00
+Taxes Withheld: $0.00
+Net Pay: $-0.00
